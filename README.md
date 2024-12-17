@@ -1,4 +1,4 @@
 # draw
 
-dependency
+dependency \
 tkinter: pip install tkinter
